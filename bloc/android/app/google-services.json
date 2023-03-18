@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "199846483401",
+    "project_id": "mariana-1b289",
+    "storage_bucket": "mariana-1b289.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199846483401:android:fbae294de5ae5f015b8418",
+        "android_client_info": {
+          "package_name": "com.example.bloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199846483401-st994qpmi7b5juenfbclt1oekmepa1s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKxv_XsCVdP_xxhXeU7efmyiQ-gTCnctw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199846483401-st994qpmi7b5juenfbclt1oekmepa1s7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

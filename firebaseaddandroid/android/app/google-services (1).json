@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "698360582213",
+    "project_id": "nadim-86d45",
+    "storage_bucket": "nadim-86d45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698360582213:android:4123dfd36fcb5c223a532c",
+        "android_client_info": {
+          "package_name": "com.example.firebaseaddandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698360582213-ukirq05c3q3456tq516uvp02dh2eb9l7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYczhrfNk4RvDEQruWbhP0bZkotk_Nrfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698360582213-ukirq05c3q3456tq516uvp02dh2eb9l7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
